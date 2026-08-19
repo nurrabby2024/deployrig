@@ -1,0 +1,10 @@
+{
+  "name": "deployrig",
+  "version": "1.0.0",
+  "description": "A deployment rig that builds, tests and publishes on tag pushes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
